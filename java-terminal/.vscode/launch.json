@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AboutMeScanner",
+            "request": "launch",
+            "mainClass": "AboutMeScanner",
+            "projectName": "java-terminal_5b50b0fa"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "Joao",
+                "Rolim",
+                "39",
+                "1.75"
+            ]
+        }
+    ]
+}
